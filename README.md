@@ -1,4 +1,18 @@
 # Tracing NTM Behavior Project
-Theory of Computing Fall 2024
-Member: Phoebe Huang
-This Project will demonstrate tracing NTM behavior
+
+**Course**: Theory of Computing (Fall 2024)  
+**Member**: Phoebe Huang  
+
+## Overview
+ - blah
+ - blah 
+
+## Objectives
+- To simulate the behavior of an NTM on various inputs.
+- To visualize the state transitions and branching nature of NTMs.
+- To analyze computational paths and outcomes.
+
+## Files
+- Code
+- Output
+- Test
