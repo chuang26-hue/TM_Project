@@ -1,0 +1,154 @@
+Machine: 0^2^n
+Input string: 0
+String accepted in 2 steps
+Path to acceptance:
+q10_
+_q2_
+_qacc_
+
+
+Machine: 0^2^n
+Input string: 00
+String accepted in 7 steps
+Path to acceptance:
+q100_
+_q20_
+_xq3_
+_q5x_
+q5_x_
+_q2x_
+_xq2_
+_xqacc_
+
+
+Machine: 0^2^n
+Input string: 000
+String rejected in 3 steps
+Longest path to rejection:
+q1000_
+_q200_
+_xq30_
+_x0q4_
+
+
+Machine: 0^2^n
+Input string: 0000
+String accepted in 21 steps
+Path to acceptance:
+q10000_
+_q2000_
+_xq300_
+_x0q40_
+_x0xq3_
+_x0q5x_
+_xq50x_
+_q5x0x_
+q5_x0x_
+_q2x0x_
+_xq20x_
+_xxq3x_
+_xxxq3_
+_xxq5x_
+_xq5xx_
+_q5xxx_
+q5_xxx_
+_q2xxx_
+_xq2xx_
+_xxq2x_
+_xxxq2_
+_xxxqacc_
+
+
+Machine: 0^2^n
+Input string: 000000
+String rejected in 18 steps
+Longest path to rejection:
+q1000000_
+_q200000_
+_xq30000_
+_x0q4000_
+_x0xq300_
+_x0x0q40_
+_x0x0xq3_
+_x0x0q5x_
+_x0xq50x_
+_x0q5x0x_
+_xq50x0x_
+_q5x0x0x_
+q5_x0x0x_
+_q2x0x0x_
+_xq20x0x_
+_xxq3x0x_
+_xxxq30x_
+_xxx0q4x_
+_xxx0xq4_
+
+
+Machine: 0^2^n
+Input string: 00000000
+String accepted in 57 steps
+Path to acceptance:
+q100000000_
+_q20000000_
+_xq3000000_
+_x0q400000_
+_x0xq30000_
+_x0x0q4000_
+_x0x0xq300_
+_x0x0x0q40_
+_x0x0x0xq3_
+_x0x0x0q5x_
+_x0x0xq50x_
+_x0x0q5x0x_
+_x0xq50x0x_
+_x0q5x0x0x_
+_xq50x0x0x_
+_q5x0x0x0x_
+q5_x0x0x0x_
+_q2x0x0x0x_
+_xq20x0x0x_
+_xxq3x0x0x_
+_xxxq30x0x_
+_xxx0q4x0x_
+_xxx0xq40x_
+_xxx0xxq3x_
+_xxx0xxxq3_
+_xxx0xxq5x_
+_xxx0xq5xx_
+_xxx0q5xxx_
+_xxxq50xxx_
+_xxq5x0xxx_
+_xq5xx0xxx_
+_q5xxx0xxx_
+q5_xxx0xxx_
+_q2xxx0xxx_
+_xq2xx0xxx_
+_xxq2x0xxx_
+_xxxq20xxx_
+_xxxxq3xxx_
+_xxxxxq3xx_
+_xxxxxxq3x_
+_xxxxxxxq3_
+_xxxxxxq5x_
+_xxxxxq5xx_
+_xxxxq5xxx_
+_xxxq5xxxx_
+_xxq5xxxxx_
+_xq5xxxxxx_
+_q5xxxxxxx_
+q5_xxxxxxx_
+_q2xxxxxxx_
+_xq2xxxxxx_
+_xxq2xxxxx_
+_xxxq2xxxx_
+_xxxxq2xxx_
+_xxxxxq2xx_
+_xxxxxxq2x_
+_xxxxxxxq2_
+_xxxxxxxqacc_
+
+
+Machine: 0^2^n
+Input string: 0000000000000000
+Execution stopped after max depth of 100
+
