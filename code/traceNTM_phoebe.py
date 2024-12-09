@@ -211,7 +211,7 @@ if __name__ == "__main__":
     params = parse_input_file(input_file)
 
     # Parse the NTM
-    ntm_file = params["machine_file"]
+    ntm_file = "input/NTM.csv"
     ntm = parse_ntm(ntm_file)
 
     # Simulate and write all results to the output file

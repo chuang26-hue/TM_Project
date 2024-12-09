@@ -60,6 +60,18 @@ _xxxqacc_
 
 
 Machine: 0^2^n
+Input string: 00000
+String rejected in 5 steps
+Longest path to rejection:
+q100000_
+_q20000_
+_xq3000_
+_x0q400_
+_x0xq30_
+_x0x0q4_
+
+
+Machine: 0^2^n
 Input string: 000000
 String rejected in 18 steps
 Longest path to rejection:
@@ -82,6 +94,20 @@ _xxq3x0x_
 _xxxq30x_
 _xxx0q4x_
 _xxx0xq4_
+
+
+Machine: 0^2^n
+Input string: 0000000
+String rejected in 7 steps
+Longest path to rejection:
+q10000000_
+_q2000000_
+_xq300000_
+_x0q40000_
+_x0xq3000_
+_x0x0q400_
+_x0x0xq30_
+_x0x0x0q4_
 
 
 Machine: 0^2^n
