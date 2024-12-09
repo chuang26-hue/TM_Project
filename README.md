@@ -1,7 +1,12 @@
 # Tracing NTM Behavior Project
 
 **Course**: Theory of Computing (Fall 2024)  
-**Member**: Phoebe Huang  
+**Member**: Phoebe Huang (chuang26)
+- **Team Name**: phoebe
+- **Programming Language**: Python
+- **Time Spent**: ~6–7 hours
+- **GitHub Repository**: [GitHub Link](https://github.com/chuang26-hue/traceTM_phoebe)
+
 
 ---
 
